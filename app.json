@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Discord-UI-Clone-Expo",
+    "description": "Discord UI Clone with React Native Framework and Expo Execution Platform",
+    "scheme": "discord-ui-clone-expo",
+    "slug": "discord-ui-clone-expo",
+    "privacy": "public",
+    "version": "0.0.1",
+    "sdkVersion": "42.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "githubUrl": "https://github.com/RonaldGuilhermePDS/Discord-UI-Clone-Expo",
+    "orientation": "portrait",
+    "icon": "./src/assets/Icon.png",
+    "splash": {
+      "image": "./src/assets/Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2F3136"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
